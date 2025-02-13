@@ -1,2 +1,2 @@
 # Curso_python
-Estudos do curso de Python
+Apenas anotações de estudos de um curso de Python
